@@ -1,0 +1,82 @@
+[
+  {
+    "action": "TEST",
+    "description": "TEST DESC"
+  },
+  {
+    "action": "TEST",
+    "description": "TEST DESC"
+  },
+  {
+    "action": "TEST",
+    "description": "TEST DESC"
+  },
+  {
+    "action": "LOGIN",
+    "description": "SUCCESS test@gmail.com CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "LOGIN",
+    "description": "SUCCESS fahri@gmail.com CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "INQUIRY BILL",
+    "description": "3010206053 INQUIRY 150000 TO INV20250402"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "FAILED BILL ALREADY PAID 3010205010 PAYMENT 150000 TO INV20250402"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "SUCCESS 3010205010 PAYMENT 150000 TO INV20250402"
+  },
+  {
+    "action": "INQUIRY BILL",
+    "description": "3010206053 INQUIRY 150000 TO INV20250401"
+  },
+  {
+    "action": "LOGIN",
+    "description": "SUCCESS fahri@gmail.com CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "INQUIRY BILL",
+    "description": "3010206053 INQUIRY 150000 TO INV20250401"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "SUCCESS 3010205010 PAYMENT 150000 TO INV20250401"
+  },
+  {
+    "action": "LOGIN",
+    "description": "SUCCESS fahri@gmail.com CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "INQUIRY BILL",
+    "description": "3010205020 INQUIRY 150000 TO INV20250401"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "FAILED AMOUNT 3010205020 PAYMENT 150000 TO INV20250401"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "SUCCESS 3010205010 PAYMENT 150000 TO INV20250401"
+  },
+  {
+    "action": "LOGIN",
+    "description": "SUCCESS fahri@gmail.com CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "LOGOUT",
+    "description": "SUCCESS CREDENTIAL d7fc8f1231df4a07b6018737b48482bb"
+  },
+  {
+    "action": "INQUIRY BILL",
+    "description": "3010205010 INQUIRY 150000 TO INV20250401"
+  },
+  {
+    "action": "PAYMENT BILL",
+    "description": "SUCCESS 3010205010 PAYMENT 150000 TO INV20250401"
+  }
+]

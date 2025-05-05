@@ -1,0 +1,16 @@
+[
+  {
+    "email": "fahri@gmail.com",
+    "password": "TestPassword",
+    "credential": "d7fc8f1231df4a07b6018737b48482bb",
+    "isLogin": "Y",
+    "cif": "00001234"
+  },
+  {
+    "email": "nuralim@gmail.com",
+    "password": "TestPassword",
+    "credential": "28cf70e8e4fd44208a213364b3abeaff",
+    "isLogin": "N",
+    "cif": "00009999"
+  }
+]

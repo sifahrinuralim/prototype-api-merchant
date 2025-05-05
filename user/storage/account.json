@@ -1,0 +1,14 @@
+[
+  {
+    "cif": "00001234",
+    "accountNo": "3010205010",
+    "availableAmount": "250000.00",
+    "isDormant": "N"
+  },
+  {
+    "cif": "00009999",
+    "accountNo": "3010205020",
+    "availableAmount": "1000000",
+    "isDormant": "N"
+  }
+]

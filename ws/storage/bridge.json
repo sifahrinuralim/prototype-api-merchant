@@ -1,0 +1,22 @@
+[
+	{
+		"product": "H2H",
+		"transactionType": "USER-LOGIN",
+		"url": "http://localhost:8090/v1/user/login"
+	},
+	{
+		"product": "H2H",
+		"transactionType": "USER-LOGOUT",
+		"url": "http://localhost:8090/v1/user/logout"
+	},
+	{
+		"product": "H2H",
+		"transactionType": "PAYMENT-INQUIRY",
+		"url": "http://localhost:8100/v1/payment/inquiry"
+	},
+	{
+		"product": "H2H",
+		"transactionType": "PAYMENT-PAYMENT",
+		"url": "http://localhost:8100/v1/payment/payment"
+	}
+]
